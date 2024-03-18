@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav, a{
+    text-decoration: none;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 100px;
+    width: 100%;
+}
+body{
+    background-color: gold;
+    text-decoration-color: black;
+}
+a:hover{
+    background-color: rgb(88, 38, 82);
+}
+
+.media {
+    display: flex;
+}
+body{
+    background-color: aqua;
+}
+p{
+    background-color: brown;
+}
